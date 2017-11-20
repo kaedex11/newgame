@@ -12,4 +12,4 @@
   *張簡家珍
   *陳柔潔
 
-  ###[史萊姆好玩遊戲區](http://game.slime.com.tw/)
+  ### [史萊姆好玩遊戲區](http://game.slime.com.tw/)
