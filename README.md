@@ -16,4 +16,6 @@
 
 :pig:
 
-# :smile:
+:smile:
+
+:+1:
