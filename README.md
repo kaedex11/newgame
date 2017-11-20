@@ -22,4 +22,4 @@
 
 ![avril](avril.webp "avril")
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![Everything Is AWESOME](https://i.ytimg.com/an_webp/aOmN6pQ1hHE/mqdefault_6s.webp?du=3000&sqp=CNqfydAF&rs=AOn4CLCEW3H2O63bxQ7PJ8_yB58RN_EMQg)](https://www.youtube.com/watch?v=aOmN6pQ1hHE "good")
